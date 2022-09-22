@@ -1,0 +1,6 @@
+[
+  { "Sender": 1234, "Reciver": 7800, "Amount": 650 },
+  { "Sender": 7878, "Reciver": 9090, "Amount": 650 },
+  { "Sender": 1234, "Reciver": 7800, "Amount": 900 },
+  { "Sender": 7800, "Reciver": 9090, "Amount": 900 }
+]

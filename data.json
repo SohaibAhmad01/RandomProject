@@ -1,0 +1,12 @@
+[
+  { "accNo": 9090, "Name": "sohaib", "type": "Current", "deposit": 7550 },
+  { "accNo": 7878, "Name": "Sohaib Ahmad", "type": "Current", "deposit": 7683 },
+  { "accNo": 1234, "Name": "Sameer", "type": "Current", "deposit": 7250 },
+  {
+    "accNo": 7800,
+    "name": "Sulman Shokat",
+    "type": "Current",
+    "deposit": 7150
+  },
+  { "accNo": 6767, "name": "Usman", "type": "Deposit", "deposit": 9000 }
+]
